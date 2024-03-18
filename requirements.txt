@@ -1,0 +1,13 @@
+fastapi
+pandas
+numpy
+bytesbufio
+fastapi-cache2
+redis
+pydantic
+boto3
+uvicorn
+scikit-learn
+typing
+python-multipart
+python-dotenv
